@@ -124,8 +124,6 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
-		<Item Name="Global 2.vi" Type="VI" URL="../../Rex-Dashboard/Rex Dashboard/Global 2.vi"/>
-		<Item Name="Global 5.vi" Type="VI" URL="../../Rex-Dashboard/Rex Dashboard/Global 5.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
